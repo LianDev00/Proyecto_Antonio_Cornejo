@@ -15,7 +15,7 @@ Pasos a seguir:
   <br/>
   3> Iniciar el frontend con el comando "npm start"
   <br/>
-  ![image](https://github.com/LianDev00/Proyecto_Antonio_Cornejo/assets/138829680/225e8445-593b-47fc-94de-574a6c9405dd)
+ 
 
 Ahora puedes Agregar a los usuarios:
 ![image](https://github.com/LianDev00/Proyecto_Antonio_Cornejo/assets/138829680/b3fe759e-2eec-4695-91c5-a66eda25e00e)
